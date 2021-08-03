@@ -33,27 +33,8 @@
 	Le mode "test" permet à l'utilisateur de commencer dans n'importe quelle 
 	situation qu'il souhaite. Ce mode remplace les fichiers de test à fournir.
 	(le mode "test" sera plus explicitement exposé dans le rapport).
-		
-## LES ERREURS CONNUES:
 	
-	Il s'est trouvé un jour que le programme est tombé dans une boucle infinie.
-	Depuis, le programme a subi des modifications et l'erreur n'a plus été rencontrée par la suite.
-	Cependant celle-ci n'a pu être concrètement identifée et l'on ne peut
-	affirmer à 100% qu'elle n'y soit plus.
-	
-		Pour precision : cette erreur est survenue après la réutilisation d'un avion
-		placé au GARAGE (Liste des inoccupés) dans le but d'un décollage. L'erreur est alors
-		survenue après le choix de la piste à laquelle il était destiné.
-	
-## LES AMELIORATIONS POSSIBLES:
-
-*	AMELIORATION EN MODE TEXTE: Etant donné qu'une certaine logique a été imposée
-	par l'énoncé, il est difficile de voir quelle(s) amélioration(s) pourrai(en)t être
-	envisagé(es). Manque d'imagination, nous n'en avons trouvé aucune.
-	
-*	AMELIORATION EN MODE GRAPHIQUE: Pour ce que la MlvLib propose en tant que 
-	fonctions élémentaires, il est difficile de voir quelle(s) amélioration(s)
-	pourrai(en)t être envisagé(es). Cependant avec quelques fonctions de transformations
-	de la dimension 2 à la dimension 3 on pourrait penser à mettre en place 
-	une interface graphique 3D : un travail long et surement trop laborieux.
+![GitHub Logo](/game1.png)
+![GitHub Logo](/game2.png)
+![GitHub Logo](/game3.png)
 		
