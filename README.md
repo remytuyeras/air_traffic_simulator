@@ -17,7 +17,7 @@
 
 * ```./compi_c Gestion_aeroport.c -o [Name of the output program]```
 
-Note: the file ``./compi_c.``` contains the flag ```FLAGS="-Wall -ansi"```
+Note: the file ```./compi_c.``` contains the flag ```FLAGS="-Wall -ansi"```
 
 4. Then enter ```./[Name of the output program] [Save file name] [Game mode]```
 	
