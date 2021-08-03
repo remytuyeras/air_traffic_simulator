@@ -25,6 +25,6 @@ To test the game, the mode ```[Game mode]``` is ```test``` and to play the game,
 	
 The mode ```normal``` allows the user to start a game from scratch (air plane companies need to be created).  The mode ```test``` allows the user to start a game from a constructed situation (events can be scheduled before the start).
 	
-![GitHub Logo](/game2.png)
+![GitHub Logo](/game3.png)
 ![GitHub Logo](/game2.png)
 		
