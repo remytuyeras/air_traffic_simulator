@@ -1,11 +1,10 @@
-## To compile Gestion_aeroport.c
+## Before compiling Gestion_aeroport.c
 1. Download the fime ```compi_c``` by following the instruction here (in french):
  * ```http://www-igm.univ-mlv.fr/ens/Common/libMlv/install.php```
 2. copy the file ```compi_c``` in the directory where ```Percolation.c``` is saved.
 3. run ```chmod +x compi_c ```
-4. compile using ```./compi_c Percolation.c```
 
-## To run the programm:
+## To run Gestion_aeroport.c (in french -- from original documentation)
 	
 1. Ouvrir le terminal.
 
