@@ -1,0 +1,251 @@
+/
+Adria Airways /ADR /
+Aegean Airlines S.A /AGN /
+Aer Lingus /LNG /
+Aero Asia /ASA /
+Aero California /CLF /
+Aeroflot Russian Airlines /RUS /
+Aerolineas Argentinas /ARG /
+Aeromexico /MXC /
+Aeromexpress /EXP /
+Aeropostal Alas de Venezuela C.A /VNZ /
+Aerosvit Airlines /SVT /
+Afriqiyah Airways /AFR /
+Air Algerie /ALG /
+Air Astana /ATN /
+Air Austral /AST /
+Air Baltic /BLT /
+Air Berlin /BER /
+Air Bosna /BOS /
+Air Botswana /BOT /
+Air Canada /CAN /
+Air China /CHI /
+Air Contractors /CON /
+Air Europa /EUR /
+Air France /FRA /
+Air Jamaica /JAM /
+Air Koryo /KRY /
+Air Luxor /LUX /
+Air Macau /MAC /
+Air Madagascar /MAD /
+Air Malawi /MLW /
+Air Malta /MLT /
+Air Marshall Islands /AMI /
+Air Mauritius /MAU /
+Air Moldova /MOL /
+Air Namibia /NAM /
+Air New Zealand /ANZ /
+Air Niugini /NIU /
+Air Nostrum /NOS /
+Air One /ONE /
+Air Pacific /PCF /
+Air Sahara /SHR /
+Air Senegal International /SEN /
+Air Seychelles /SEY /
+Air Tahiti /TAH /
+Air Tahiti Nui /ATN /
+Air Tanzania /TAN /
+Air Vanuatu /VAN /
+Air Zimbabwe /ZIM /
+Aircalin / CAL /
+Air India /IND /
+Ajet Aviation /AVI /
+Alaska Airlines /ALA /
+Albanian Airlines /ALB /
+Alitalia /ALI /
+All Nippon Airways ANA /ANA /
+Aloha Airlines /ALO /
+Alpi Eagles /ALP /
+America West Airlines /AWA /
+American Airlines /AME /
+Angola Airlines TAAG /ANG /
+Ariana Afghan Airlines /AFG /
+Arkia Israeli Airlines /ISR /
+Armavia Airlines /ARM /
+Asiana Airlines /ASI /
+Atlas Air /ATL /
+AtlasJet Airways /ATJ /
+Austral /ATL /
+Austrian Airlines /ATN /
+Avianca Aerovias Nacionales de Colombia S.A /CLB /
+Aviateca /AVT /
+Azerbaijan Airlines /AZE /
+Bangkok Airways /BGK /
+Belavia Belarussian Airlines /BEL /
+Bellview Airlines (Nigeria) /BVA /
+Biman Bangladesh Airlines /BGL /
+Binter Canarias (Espagne) /CNR /
+Blue1 /BLU /
+Blue Panorama Airlines (Italie) /BPA /
+Blue Wings /BWG /
+bmi British Midland /BMI /
+British Airways /BRT /
+C.A.L Cargo Airlines /CAL /
+Cameroon Airlines /CMR /
+Cargojet Airways /CGJ /
+Cargolux S.A /CGL /
+Carpatair /CPT /
+Caspian Airlines /CSP /
+Cathay Pacific /CAT /
+CCM Airlines /CCM /
+China Airlines /CHA /
+China Cargo Airlines /CHC /
+China Eastern Airlines /CHE /
+China Southern Airlines /CHS /
+Cimber Air /CIM /
+Cirrus Airlines /CIR /
+Cityjet /CIT /
+Comair Inc. /COM /
+Continental Airlines /CNT /
+Continental Micronesia /CTM /
+Copa Airlines Compania Panamena de Aviacion S.A /COP /
+Corsair /COR /
+Croatia Airlines /CRO /
+Cubana de Aviacion /CUB /
+Cyprus Airways /CYP /
+CSA Czech Airlines ČSA /CSA /
+Delta Air Lines /DLA /
+Fly DBA /DBA /
+Denim Air /DEN /
+DHL Air Ltd /DHL /
+DHL International E.C /DHL /
+Dragonair /DGN /
+Egyptair /EGY /
+El Al Israel Airlines /ISR /
+Emirates /EMI /
+Estonian Air /EST /
+Ethiopian Airlines /ETH /
+Etihad Airways /ETI /
+European Air Express /EAE /
+European Air Transport /EAT /
+Eurowings /EUW /
+EVA Air /EVA /
+Far Eastern Air Transport /FAR /
+Federal Express Fedex /FDX /
+Finnair /FIN /
+Flybe /FLB /
+FlyLAL /FLL /
+Garuda International /GAR /
+GB Airways /GBA /
+Gulf Air /GLF /
+Hahn Air Lines /HAH /
+Hainan Airlines /HAI /
+Hapagfly /HAP /
+Hellas Jet /HEL /
+Hemus Air /HEM /
+Iberia /IBE /
+Icelandair /ICE /
+Indian Airlines /IND /
+Inter Air /INT /
+Iran Air /IRA /
+Iran Aseman Airlines /IAA /
+Iraqi Airways /IRQ /
+Israir /ISR /
+JALways /JLW /
+Japan Airlines JAL /JAL /
+Jat Airways /JAT /
+Jet Airways /JET /
+Jordan Aviation /JOR /
+Kenya Airways /KEN /
+Kish Air /KSH /
+Kitty Hawk /KTT /
+KLM KLM Royal Dutch Airlines /KLM /
+Korean Air /KOR /
+Kuwait Airways /KUW /
+Lloyd Aereo Boliviano LAB /LAB /
+Lacsa Lineas Aereas Costarricenses S.A /LAC /
+LAM Linhas Aereas de Moçambique /LAM /
+LAN Chile /LAN /
+Lan Argentina /LRG /
+Lan Chile Cargo /CCG /
+LAN Ecuador /ECU /
+Lan Peru /PER /
+Lauda Air Lauda Air Luftfahrt Aktiengesellschaft /LAU /
+Libyan Arab Airlines /LIB /
+Lineas Aereas Azteca /AZT /
+LOT Polish Airlines /LOT /
+LTU /LTU /
+Lufthansa /LFT /
+Lufthansa Cargo /LFC /
+Lufthansa CityLine /LFL /
+Luxair Societe Luxembourgeoise de navigation aerienne /LUX /
+Macedonian Airlines /MCD /
+Mahan Air /MHN /
+Malaysia Airlines /MLS /
+Malev Hungarian Airlines /HNG /
+Malmo Aviation AB /MLM /
+Middle East Airlines MEA /MEA /
+Meridiana /MRD /
+Mexicana de Aviacion /MXN /
+MIAT Mongolian Airlines /MGL /
+Montenegro Airlines /MTG /
+Nationwide Airlines /NTW /
+Nippon Cargo Airlines /NPP /
+Northwest Airlines /NTH /
+Olympic Airways /OLY /
+Oman Air /OMN /
+PAL Philippine Airlines Inc. /PAL /
+Palestinian Airlines /PST /
+Portugalia PGA /PGA /
+PIA Pakistan International Airlines /PIA /
+Pluna Pluna Lineas Aereas Uruguayas Sociedad /PLN /
+Qantas /QNT /
+Qatar Airways /QTR /
+Rossiya Russian Airlines /RRA /
+Royal Air Maroc /RAM /
+Royal Brunei Airlines /RBA /
+Royal Jordanian /RJD /
+Rwandair Express /RWX /
+SA Airlink /SAA /
+South African Airways SAA /SAA /
+Safair /SAF /
+Samara Airlines /SAM /
+Scandinavian Airlines System SAS /SAS /
+SAS Braathens /BRA /
+SATA Air Açores /ACO /
+Saudi Arabian Airlines /SAR /
+Shandong Airlines /SHD /
+Shanghai Airlines /SHG /
+Shenzhen Airways /SHZ /
+Siberia Airlines /SIB /
+Sichuan Airlines /SIC /
+Silkair /SIL /
+Singapore Airlines /SGP /
+Singapore Airlines Cargo /SGC /
+Skyways /SKY /
+SN Brussels Airlines /SNB /
+Solomon Airlines /SOL /
+Spanair /SPN /
+SriLankan Airlines /SRI /
+Sudan Airways /SDA /
+Surinam Airways /SUR /
+Swiss /SWS /
+Syrianair /SYR /
+TACA /TAC /
+Transportes Aereos Meridionais Linhas Aereas /MRD /
+TAP Air Portugal /TAP /
+Tarom S.A /TRM /
+Tassili Airlines /TSS /
+Thai Airways /THA /
+Transaero Airlines /TRS /
+Turkish Airlines /TRK /
+TNT Airways S.A /TNT /
+Transasia Airways /TSS /
+Tunis Air /TUN /
+Turkmenistan Airlines /TKM /
+Ukraine International Airlines /UKR /
+United Airlines /UAL /
+UPS Airlines /UPS /
+US Airways /USA /
+Varig /VAR /
+Varig Log /VLG /
+Vietnam Airlines /VIE /
+Virgin Atlantic /VAT /
+Virgin Nigeria /VNG /
+Vladivostok /VLA /
+Volga-Dnepr Airline /VGD /
+Wideroe /WID /
+Xiamen Airlines /XIA /
+Yemenia Yemen Airways /YEM /
+Zambian Airways /ZAM /
+//
