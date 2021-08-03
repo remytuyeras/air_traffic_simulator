@@ -4,34 +4,26 @@
 2. copy the file ```compi_c``` in the directory where ```Percolation.c``` is saved.
 3. run ```chmod +x compi_c ```
 
-## To run Gestion_aeroport.c (in french -- from original documentation)
+## To run Gestion_aeroport.c
 	
-1. Ouvrir le terminal.
+1. Open the terminal
 
-2. Aller dans le répertoire où se trouvent les fichiers:
+2. GO to the directory containing the folliowing files:
 	```Gestion_aeroport.c```
 	```LstComp.txt```
 	```compi_c``` (obligatoire pour la compilation en mode graphique)
 
-3. Taper la commande: ```./compi_c Gestion_aeroport.c -o [Nom de l'executable]```
+3. Enter the folloiwng command in the terminal: 
 
-	Remarque : il y existe un ```FLAGS="-Wall -ansi"``` dans le ```./compi_c.```
+* ```./compi_c Gestion_aeroport.c -o [Name of the output program]```
 
-4. Puis taper ensuite ```./[Nom de l'executable] [Nom du Fichier de Sauvegarde] [Mode de Jeu]```
+Note: the file ``./compi_c.``` contains the flag ```FLAGS="-Wall -ansi"```
 
-	1. Le ```[Nom du Fichier de Sauvegarde]``` est imposé par l'énoncé : ```aeroport.log```
+4. Then enter ```./[Name of the output program] [Save file name] [Game mode]```
 	
-	2. Le ```[Mode de Jeu]``` est un mot clef spécifiant si l'on veut utiliser 
-	l'executable en mode "test" ou en mode "normal".
+To test the game, the mode ```[Game mode]``` is ```test``` and to play the game, the mode ```[Game mode]``` is ```normal```.
 	
-	Pour le mode "test", le ```[Mode de Jeu]``` est "test" et pour le mode 
-	"normal", le ```[Mode de Jeu]``` est "normal".
-	
-	Le mode "normal" permet à l'utilisateur de débuter la simulation d'une manière
-	tout à fait classique : sans avion et sans compagnie.
-	Le mode "test" permet à l'utilisateur de commencer dans n'importe quelle 
-	situation qu'il souhaite. Ce mode remplace les fichiers de test à fournir.
-	(le mode "test" sera plus explicitement exposé dans le rapport).
+The mode ```normal``` allows the user to start a game from scratch (air plane companies need to be created).  The mode ```test``` allows the user to start a game from a constructed situation (events can be scheduled before the start).
 	
 ![GitHub Logo](/game1.png)
 ![GitHub Logo](/game2.png)
